@@ -15,7 +15,7 @@ Group :- 9
 
 # DISTANCE TRAVELED
 
-![WhatsApp Image 2024-09-23 at 11 13 21 PM (1)](https://github.com/user-attachments/assets/78670132-6dba-413b-8800-af409ed14d35)
+![Screenshot 2024-09-24 120917](https://github.com/user-attachments/assets/00a84943-4ff2-4ee7-b9d5-5fff2dd3e016)
 
 # CURRENT LOCATION
 
